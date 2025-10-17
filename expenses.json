@@ -1,0 +1,12 @@
+{
+  "user_id": [
+    {
+      "id": 1,
+      "amount": 15.5,
+      "category": "food",
+      "description": "Lunch at cafe",
+      "date": "2025-10-18",
+      "timestamp": "14:30:25"
+    }
+  ]
+}
